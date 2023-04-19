@@ -1,24 +1,4 @@
-/*-----------------------------------*\
- * #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
- * #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
-
-  /**
-   * colors
-   */
 
   --rich-black-fogra-29: hsl(240, 13%, 8%);
   --silver-chalice: hsl(0, 0%, 70%);
@@ -54,24 +34,17 @@
   /** Font size */
   --weight-bold: 700;
 
-  /**
-   * BORDER RADIUS
-   */
-
+  /* BORDER RADIUS */
   --radius-8: 8px;
   --radius-circle: 50%;
   --section-padding: 70px;
-  /**
-   * TRANSITION
-   */
+  /* TRANSITIONS */
 
 
   --transition-2: 0.5s ease;
   overflow-x: hidden !important;
 
-  /**
-   * typography
-   */
+  /* typografic */
   --text-shadow-blue: hsl(38, 100%, 98%);
 
   --ff-poppins: 'Poppins', sans-serif;
@@ -87,16 +60,10 @@
   --fw-500: 500;
   --fw-700: 700;
 
-  /**
-   * transition
-   */
-
+  /* Transitions */
   --transition: 0.2s ease-in-out;
 
-  /**
-   * spacing
-   */
-
+  /*  */
   --section-padding: 80px;
 
 }
